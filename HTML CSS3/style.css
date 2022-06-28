@@ -1,0 +1,59 @@
+body {
+    background-color: #5551515e;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+
+}
+#title{
+    font-family: Verdana;
+    text-transform: uppercase;
+    color: #505050;
+    margin: 0;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+a {
+    text-decoration: underline;
+    color: #505050;
+}
+.subtitle{
+    color: #505050;
+    font-size: 16x;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+.post{
+    color:#505050;
+    background-color: #fff;
+    padding: 10px;
+    border: 3px solid #505050;
+    margin: 10px;
+    margin-bottom: 15px;
+    margin
+}
+
+.post_conteudo{
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    
+}
+.post_imagem{
+    margin-bottom: 15px;
+}
+.first_img{
+    padding: 10px;
+    margin-bottom: 15px;
+    text-decoration: line-through;
+}
+.lista_contatos{
+    list-style-type: none;
+    padding-left: 15px;
+}
+.lista_contatos li a{
+    color: none;
+}
